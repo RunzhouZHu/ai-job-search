@@ -28,6 +28,21 @@ Read the posting's eligibility / work rights / "who can apply" section **verbati
 
 If the candidate's permit also constrains *hours* or *start date* (a student visa with a term-time cap, a permit that begins on graduation), record that as a second gate under this section during `/setup`, with the specific dates. Do not merge it with the eligibility question above — they fail for different reasons and need different answers.
 
+### Working-hours gate (candidate-specific)
+
+The candidate holds a **Finnish residence permit for studies** (degree in progress at Metropolia UAS, expected September 2027). Per Migri (migri.fi, "Working and internships during studies", checked 2026-10-26):
+
+- Paid work in any field: **average max 30 h/week** (120 h/month, 1,560 h/year). Full-time weeks during holidays are allowed only if the yearly average stays at or under 30 h/week.
+- **Exempt:** internships and thesis (diploma) work that are part of the degree, **if the credits are agreed with Metropolia beforehand**. Registering the work as an internship after the fact does not lift the limit.
+
+| Role type | Verdict |
+|-----------|---------|
+| Part-time (≤30 h/week), or a degree internship / thesis position with credits agreed in advance | **PASS** |
+| Full-time permanent role starting before graduation, not structured as a degree internship/thesis | **FLAG** - surface the hours constraint to the user; ask whether the employer accepts ≤30 h/week until graduation or the role can be set up as a credited internship/thesis |
+| Full-time fixed program requiring 37.5 h/week throughout (e.g. graduate programs) with no internship/thesis framing | **FLAG** - same as above; do not draft until the user confirms |
+
+Re-check this gate's facts after graduation (the permit type will change) and update the dates here.
+
 A role that fails this gate is not scored and not drafted. Everything below applies only to roles that pass it.
 
 ## Language Gate — run before scoring

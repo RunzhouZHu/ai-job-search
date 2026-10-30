@@ -39,6 +39,68 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 <!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
 
+## STAR Candidates (Complete Manually)
+
+### VAA1 multi-window analytical interface
+**Source:** Reference letter / LinkedIn - UI/UX Systems Designer & Frontend Engineer, VAA1 project, University of Helsinki (Nexus Incubator)
+**What happened:** Implemented a multi-window, configurable layout with Golden Layout in a Next.js/TypeScript frontend, comparable to professional creative software.
+**Why it matters:** "Tell me about a technically hard problem", "How do you make frontend architecture decisions?"
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Prototype kept in step with evolving requirements
+**Source:** Reference letter - VAA1 project
+**What happened:** Iterated a Figma prototype throughout the project as system requirements changed, and communicated product concepts to stakeholders.
+**Why it matters:** "How do you handle changing requirements or ambiguity?", "Tell me about working with stakeholders"
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Taking on senior-level responsibility as a student
+**Source:** Reference letter (Petteri Laine) - VAA1 project
+**What happened:** Owned product interaction design, frontend architecture and workflow design (use cases, sequence diagrams), which the project lead described as senior-level responsibilities.
+**Why it matters:** "Tell me about a time you took ownership", "Describe a time you stepped outside your role"
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### App-store mobile app delivered with CI in Agile sprints
+**Source:** Reference letter (Jukka Paasonen) - AI-Driven Full-Stack Developer (Trainee), Design Leaders Finland Oy
+**What happened:** Participated in planning, building, testing and delivering mobile applications for app-store release, using GitHub Projects for sprints, GitHub Actions for CI, and AI-assisted development tools.
+**Why it matters:** "How do you work in a team?", "What's your experience with CI/CD / DevOps?", "How do you use AI tools in development?"
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Learning Unity fast and shipping AI text-to-speech
+**Source:** LinkedIn - Game Developer (Intern), BlendIn Kids
+**What happened:** Self-learned Unity to build a language-learning web game, including HTTP-API save/load and real-time AI text-to-speech for characters.
+**Why it matters:** "Tell me about learning a new technology quickly", "Describe integrating a third-party API or AI service"
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Career change from mechanical engineering to software
+**Source:** LinkedIn - BEng Mechanical Engineering (USTB) and Engineering Blueprint Designer (2019-2023), then BSc IT at Metropolia
+**What happened:** Moved from four years of engineering blueprint design in China to an IT degree and software roles in Finland.
+**Why it matters:** "Why did you change careers?", "What do you bring from your previous field?", "Walk me through your background"
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
 ## Common Tough Questions
 
 ### "Why did you leave [previous company]?"

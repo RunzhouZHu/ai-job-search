@@ -20,12 +20,12 @@ framework_version: 1.0.0
 | [DRIVE_4] | [LEVEL] | [DESCRIPTION] |
 
 ## Strongest Behaviors
-- **[BEHAVIOR_1]:** [DESCRIPTION]
-- **[BEHAVIOR_2]:** [DESCRIPTION]
-- **[BEHAVIOR_3]:** [DESCRIPTION]
+- **Design-engineering integration:** Carries work from Figma prototype through to production frontend, and structures the product workflow (use cases, sequence diagrams) before building. Petteri Laine: "strong design-engineering integration capability, structured product thinking." *[Inferred from Reference letter (VAA1) - review before relying on this]*
+- **Independent ownership beyond level:** Took on product, frontend-architecture and workflow-design responsibility as a student. Laine: "assumed responsibilities typically associated with senior-level technical, product, and research roles and carried them out with composure, professionalism, and intellectual independence." *[Inferred from Reference letter (VAA1) - review before relying on this]*
+- **Fast self-directed learner:** Picks up new stacks quickly (Unity at BlendIn Kids, GitHub Actions/Agile at Design Leaders). LinkedIn: "strong problem-solving and self-learning skills"; Jukka Paasonen: "strong commitment to learning, and the ability to adapt to modern development methodologies and technologies." *[Inferred from LinkedIn / Reference letter (Design Leaders) - review before relying on this]*
 
 ## How You Work Best
-- [ENVIRONMENT_PREFERENCE_1]
+- Interdisciplinary R&D teams where requirements evolve during the project; stays reliable as scope shifts. Laine: "reliable and capable of delivering high-quality design and frontend engineering outputs under evolving project conditions"; "a collaborative working style in an interdisciplinary research and development environment." *[Inferred from Reference letter (VAA1) - review before relying on this]*
 - [ENVIRONMENT_PREFERENCE_2]
 - [ENVIRONMENT_PREFERENCE_3]
 
